@@ -1,6 +1,41 @@
 # edidionguomh
 
-# 💫 About Me:Welcome to my professional portfolio repository. I'm a AI research assistant and data enthusiast with a focus on AI research, Cloud microservices orchestration, AI governance, business intelligence, and business development.
+# 💫 # 👋 Hi, I’m Edidiong Hector Umoh
+**AI Researcher | Cloud Application Developer | Ethical Tech Advocate**
+
+---
+
+## 🚀 About Me
+- 🎓 Pursuing a **Master of Research in Artificial Intelligence**, focusing on **AI governance, cloud engineering, and automation**.
+- 🔍 Passionate about **building scalable AI solutions** and  **multi-agent AI systems** and  **evaluating LLM robustness** through adversarial testing and ethical frameworks.
+- ☁️ Experienced with **AWS Cloud Development**, **Amazon Bedrock**, and **workflow automation** using tools like **n8n** and **sagemaker**.
+
+---
+
+## 🔍 Research & Interests
+- **Faith, Ethics, and Algorithms**: Exploring Catholic Social Teaching in digital landscapes and reproductive justice.
+- **AI Reliability & Safety**: Designing adversarial tests and ethical evaluation pipelines for LLMs.
+- **Cloud + AI Engineering**: Leveraging AWS services for intelligent automation and enterprise-grade solutions.
+
+---
+
+## 🛠 Tech Stack
+- **Languages**: Python, JavaScript  
+- **Cloud**: AWS (Bedrock, SNS/Pinpoint), VMware ESXi  
+- **Tools**: VS Code,Amazon Q, pycharm, Kiro, n8n and CrewAI 
+- **Specialties**:AI Research, Cloud Microservice Ochestration, Automation, Virtual Environments, Ethical AI
+
+---
+
+## 🌱 Current Projects
+- Internship Pilot: **Leasing Agent AI workflow** using **CrewAI on Amazon Bedrock**.
+- Automating research workflows and creating content on **AI + Cloud engineering insights**.
+
+---
+
+## 📫 Let’s Connect
+- 🌐 #  
+
 
 
 ## 🌐 Socials:
