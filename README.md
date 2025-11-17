@@ -1,7 +1,6 @@
 # edidionguomh
 
-# 💫 About Me:
-I'm currently building my project portfolio to show my skills and expertise in Business intelligence, Data analytics & analysis,Cloud Computing and AI automation.
+# 💫 About Me:Welcome to my professional portfolio repository. I'm a AI research assistant and data enthusiast with a focus on AI research, Cloud microservices orchestration, AI governance, business intelligence, and business development.
 
 
 ## 🌐 Socials:
