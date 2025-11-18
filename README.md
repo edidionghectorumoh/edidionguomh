@@ -27,7 +27,9 @@
 
 ---
 
-## 🌱 Current Projects
+## 🌱  My Featured projects
+* [AI Governance & Security Research Project](https://github.com/YourUsername/web-app)
+* [Machine Learning Notebooks](https://github.com/YourUsername/ml-notebooks)
 - Internship Pilot: **Leasing Agent AI workflow** using **CrewAI on Amazon Bedrock**.
 - Automating research workflows and creating content on **AI + Cloud engineering insights**.
 
