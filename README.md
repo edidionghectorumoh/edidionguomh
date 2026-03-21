@@ -1,44 +1,62 @@
-# edidionguomh
+# edidiongumoh
 
-# 💫 # 👋 Hi, I’m Edidiong Hector Umoh
-**AI Researcher | Cloud Application Developer | Ethical Tech Advocate**
+# 💫 # # 👋 Hello, I'm Edidiong Hector Umoh
 
----
+### **AI Applied Scientist | Cloud AI Engineer | AI Engineer**
 
-## 🚀 About Me
-- 🎓 Pursuing a **Master of Research in Artificial Intelligence**, focusing on **AI governance, cloud engineering, and automation**.
-- 🔍 Passionate about **building scalable AI solutions** and  **multi-agent AI systems** and  **evaluating LLM robustness** through adversarial testing and ethical frameworks.
-- ☁️ Experienced with **AWS Cloud Development**, **Amazon Bedrock**, and **workflow automation** using tools like **n8n** and **sagemaker**.
+I am an **M.Res in Artificial Intelligence** candidate at **Capitol Technology University**, focused on the architectural integrity of **Agentic AI** and **Cyber-Physical Systems**. I specialize in building autonomous, safety-gated frameworks that transform raw data into actionable, high-reliability workflows across diverse industries.
 
 ---
 
-## 🔍 Research & Interests
-- **Faith, Ethics, and Algorithms**: Exploring Catholic Social Teaching in digital landscapes and reproductive justice.
-- **AI Reliability & Safety**: Designing adversarial tests and ethical evaluation pipelines for LLMs.
-- **Cloud + AI Engineering**: Leveraging AWS services for intelligent automation and enterprise-grade solutions.
+## 🚀 Core Expertise
+* **AI Engineering:** Designing sophisticated Agentic Workflows and Multi-Agent Systems using frontier LLMs and LMMs.
+* **Predictive Analytics:** Advanced Exploratory and Predictive modeling to drive data-informed decision-making.
+* **Intelligent Automation:** Developing custom safety-intercept layers, Multimodal RAG systems, and enterprise-scale AI pipelines.
+* **Cloud & MLOps:** Architecting scalable, cloud-agnostic AI infrastructure with a focus on deployment reliability and model evaluation.
+
+## 📚 Current Research Focus
+* **Safety-Critical Agentic Orchestration** (Platform Agnostic)
+* **Multimodal Embeddings & Domain-Specific RAG**
+* **Human-in-the-loop AI for Complex Decision Support**
+---
+## 🏗️ Technical Architecture & Ecosystem
+
+### **🤖 Agentic AI & Frontier Models**
+* **Orchestration:** Multi-Agent Systems (CrewAI, LangGraph), Tool-Use & Function Calling.
+* **Frontier Models:** Amazon Nova 2 (Lite, Sonic, Pro), Claude 3.5 Sonnet, GPT-4o.
+* **Safety & Alignment:** Custom "CloudJudge" Intercept layers, Human-in-the-loop (HITL) workflows.
+
+### **☁️ Cloud & MLOps Infrastructure**
+* **Certifications:** **AWS Certified AI Practitioner**, **AWS Certified Cloud Practitioner**.
+* **Platforms:** AWS Bedrock, SageMaker, Lambda, SNS/Pinpoint, VMware ESXi.
+* **Deployment:** Docker (Containerization for Edge), CI/CD for LLMs (LLMOps).
+* **Vector Databases:** Weaviate, Pinecone (Advanced Multimodal RAG).
+
+### **📊 Data Intelligence & Deep Learning**
+* **Frameworks:** **PyTorch**, **TensorFlow**, Keras (Deep Learning & Neural Networks).
+* **Languages:** Python (Advanced), SQL, JavaScript, HTML/CSS.
+* **Libraries:** Scikit-learn, Pandas, NumPy (Explorative & Predictive Modeling).
+* **Analytics:** Microsoft Power BI, Google Analytics.
+
+### **🛠️ Automation & Workflow Design**
+* **Enterprise Automation:** n8n, Zapier, Custom Python-based Automation.
+* **UI Frameworks:** Chainlit (AI Interface Design), Streamlit.
+
+---
+### **🛡️ Specialties**
+AI Research & Ethics | Cyber-Physical Safety | Cloud Microservice Orchestration | Virtualized Environments | Predictive Industrial Automation
 
 ---
 
-## 🛠 Tech Stack
-- **Languages**: Python, JavaScript  
-- **Cloud**: AWS (Bedrock, SNS/Pinpoint), VMware ESXi  
-- **Tools**: VS Code,Amazon Q, pycharm, Kiro, n8n and CrewAI 
-- **Specialties**:AI Research, Cloud Microservice Ochestration, Automation, Virtual Environments, Ethical AI
-
+## 🌱 Featured Research Project: [GhostWrench AFE](https://github.com/edidionghectorumoh/GhostWrench-)
+A flagship Proof of Concept (PoC) demonstrating multimodal vision and voice orchestration. While showcased in an industrial context, the underlying **Safety-First Architecture** is applicable to any high-stakes automated environment.
 ---
+## 🤝 Let's Connect
+* **LinkedIn:** [linkedin.com/in/edidionghectorumoh](https://www.linkedin.com/in/edidionghectorumoh/)
+* **Mentorship:** I am dedicated to empowering the next generation of Data and AI professionals through explorative learning and mentorship.
 
-## 🌱  My Featured projects
-* [AI Governance & Security Research Project](https://github.com/edidionghectorumoh/ai_governance_security_research)]
-* [Machine Learning Notebooks](https://github.com/YourUsername/ml-notebooks)
-- Internship Pilot: **Leasing Agent AI workflow** using **CrewAI on Amazon Bedrock**.
-- Automating research workflows and creating content on **AI + Cloud engineering insights**.
-
+*"The future of AI isn't just automation—it's the engineering of trust and safety into every autonomous decision."*
 ---
-
-## 📫 Let’s Connect
-- 🌐 #  
-
-## Related Work
 
 - 🔬 AI Governance & Security Research Project
 
